@@ -15,7 +15,6 @@ this application has been developed for the use of people with disabilities, aim
 
 ![image](https://user-images.githubusercontent.com/55514277/177213859-3340ebcb-0491-48ae-81ba-bf483f3b989b.png)
 
-![image](https://user-images.githubusercontent.com/55514277/177213893-7b073b12-bfff-49b1-8bbb-40fc7e8319fc.png)
 
 
 
